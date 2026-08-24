@@ -119,27 +119,8 @@ MIVEST - Historial de versiones
 1.1.76
 - Bugfixes Codex
 
-1.1.76
-- Actualización de versión
-
-1.1.77
-- Prueba
-
-1.1.78
-- Prueba 2
-- Prueba 3
-
-1.1.79
-- Prueba
-
-1.1.80
-- Prueba
-
-1.1.81
-- Test
-
-1.1.82
-- Test
-
 1.1.83
 - VersionHistory
+
+1.1.84
+- Rol de usuario Special
