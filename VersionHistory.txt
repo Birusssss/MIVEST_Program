@@ -124,3 +124,6 @@ MIVEST - Historial de versiones
 
 1.1.84
 - Rol de usuario Special
+
+1.1.85
+- Prueba
