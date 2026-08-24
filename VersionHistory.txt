@@ -1,0 +1,139 @@
+MIVEST - Historial de versiones
+
+1.1.0 
+- Version inicial
+
+1.1.1 
+- Añadido version y autor en barra de navegación
+
+1.1.2 
+- Inicio de ventana maximizada
+
+1.1.3
+- Versionado centralizado en version.txt.
+
+1.1.4
+- Generacion de ficheron MIVEST_Setup optimizado
+
+1.1.5
+- Opcion de bancos no españoles
+
+1.1.6
+- Actualizacion automática Github
+
+1.1.10
+- Actualizacion en segundo plano
+
+1.1.13
+- Elegir ubicacion al exportar 
+
+1.1.14
+- Bugfix al actualizar version
+
+1.1.16
+- Bugfix al actualizar version
+
+1.1.18
+- Idiomas español/ingles
+- Recuperados bancos no españoles
+- Boton actualizar version
+
+1.1.19
+- Version de prueba
+
+1.1.20
+- Mejorada traducción a ingles
+
+1.1.21
+- Version de prueba
+
+1.1.22
+- Version de prueba 2
+
+1.1.23
+- Configuracion general ordenada
+
+1.1.24
+- Cuentas remuneradas con ganancias
+
+1.1.25
+- Mejora en cuentas remuneradas (impuestos)
+
+1.1.26
+- Bugfix en cuentas remuneradas
+- Mejora fluidez al abrir programa
+
+1.1.27
+- Bugfix index.html no abre
+
+1.1.28
+- Posibilidad de elegir ubicacion de exportaciones
+
+1.1.29
+- Bugfix cuenta remunerada (comisiones)
+
+1.1.30
+- Mejora estabilidad al arranque
+
+1.1.31
+- Traducciones a ingles mejoradas
+
+1.1.32
+- Traducciones a ingles mejoradas
+
+1.1.33
+- Retroceso de index.html
+
+1.1.35
+- Posibilidad de filtrar en transacciones
+- Posibilidad de ordenar la cartera
+- Rentabilidad de años anteriores
+
+1.1.36
+- Mejorada rentabilidad años anteriores
+- Porcentaje de descarga de nuevas versiones
+
+1.1.37
+- Mejora ganancia/perdida en graficos
+
+1.1.39
+- Nueva forma de añadir transacciones
+- Video añadido
+- Rentabilidad anual mejorada
+
+1.1.40
+- control de usuarios
+
+1.1.58
+- Actualización de versión
+
+1.1.73
+- control de usuarios mejorado
+
+1.1.74
+- Primera version Codex
+
+1.1.75
+- Segunda versión Codex
+
+1.1.76
+- Bugfixes Codex
+
+1.1.76
+- Actualización de versión
+
+1.1.77
+- Prueba
+
+1.1.78
+- Prueba 2
+- Prueba 3
+
+1.1.79
+- Prueba
+
+1.1.80
+- Prueba
+
+1.1.81
+- Test
