@@ -127,3 +127,9 @@ MIVEST - Historial de versiones
 
 1.1.85
 - Prueba
+
+1.2.0
+- Release version
+- Control de usuarios
+- Visualizacion optimizada
+- Gráficos mejorados
