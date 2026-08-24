@@ -137,3 +137,6 @@ MIVEST - Historial de versiones
 
 1.1.81
 - Test
+
+1.1.82
+- Test
