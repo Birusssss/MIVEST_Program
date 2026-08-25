@@ -136,3 +136,6 @@ MIVEST - Historial de versiones
 
 1.2.1
 - Usuario Special añadido (bugfix)
+
+1.2.2
+- Nuevos graficos (volailidad, drowdown)
