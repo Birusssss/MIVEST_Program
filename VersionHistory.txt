@@ -133,3 +133,6 @@ MIVEST - Historial de versiones
 - Control de usuarios
 - Visualizacion optimizada
 - Gráficos mejorados
+
+1.2.1
+- Usuario Special añadido (bugfix)
