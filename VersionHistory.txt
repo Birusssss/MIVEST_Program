@@ -138,4 +138,4 @@ MIVEST - Historial de versiones
 - Usuario Special añadido (bugfix)
 
 1.2.2
-- Nuevos graficos (volailidad, drowdown)
+- Gráficos de Volatilidad y Drowdown
